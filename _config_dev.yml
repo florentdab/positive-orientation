@@ -1,17 +1,3 @@
-# Site settings
-title: Eole positive orientation
-email: dabinflorent@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  It's a blog we try to help you about your professional choice with many tips and advices.
 baseurl: "/positive-orientation"
 url: "http://florentdab.github.io"
-twitter_username: dabinflorent
-github_username:  florentdab
-gems: [jekyll-paginate]
-paginate: 3 # number of posts I want per page
-# Build settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+
