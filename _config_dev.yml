@@ -4,7 +4,7 @@ email: dabinflorent@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   It's a blog we try to help you about your professional choice with many tips and advices.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/"
+url: "http://localhost:4000"
 twitter_username: dabinflorent
 github_username:  florentdab
 gems: [jekyll-paginate]
